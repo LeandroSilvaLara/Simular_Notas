@@ -32,6 +32,15 @@
   </a>
 </p>
 
+## 📕 License.
+
+
+This project is under the [MIT](./LICENSE).
+
+
+Made with love by [Leandro Lara](https://github.com/LeandroSilvaLara) 💜🚀
+
+
 
 ## 📥 Execute esse projeto no seu computador
 
