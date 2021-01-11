@@ -32,14 +32,13 @@
   </a>
 </p>
 
-## 📕 License.
+-----------------------------------------------------------------------------------------------------------------------------
 
+## Rodando projeto
 
-This project is under the [MIT](./LICENSE).
+![2021-01-11-13-30-16](https://user-images.githubusercontent.com/49800137/104199321-0bd55780-5406-11eb-9224-ba39f5df985e.gif)
 
-
-Made with love by [Leandro Lara](https://github.com/LeandroSilvaLara) 💜🚀
-
+------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 📥 Execute esse projeto no seu computador
@@ -55,6 +54,16 @@ Made with love by [Leandro Lara](https://github.com/LeandroSilvaLara) 💜🚀
 - Gerenciador de Soluções - `Rodar a aplicação(caso dê algum problema, vá em Compilação -> Limpar Solução e depois Compilação -> Recompilar Solução)`
 - Executar Projeto `Primeiro turma quantas turmas depois matérias colocando os peso de cada uma delas.`
 
+---------------------------------------------------------------------------------------------------------------------------
+
+## 📕 License.
 
 
+This project is under the [MIT](./LICENSE).
+
+
+Made with love by [Leandro Lara](https://github.com/LeandroSilvaLara) 💜🚀
+
+
+---------------------------------------------------------------------------------------------------------------------------
   
